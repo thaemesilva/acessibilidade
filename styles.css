@@ -6,7 +6,7 @@
     box-sizing: border-box;
   }
 :root {
-    --vermelho:rgb(173, 22, 54);
+    --roxo:rgb(182, 11, 159);
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #aa040c;
